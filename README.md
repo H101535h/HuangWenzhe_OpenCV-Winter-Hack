@@ -11,3 +11,5 @@ Python
 OpenCV
 NumPy
 RealSense SDK
+## Demo Video https://github.com/user-attachments/assets/0a5c2caa-8546-4908-8484-c98bd681a840
+The laser is red and the detection box is green.
